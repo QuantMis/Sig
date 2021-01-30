@@ -1,0 +1,77 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: i386 amd64
+Codename: focal
+Components: main
+Date: Fri, 15 Jan 2021 20:12:36 +0000
+Description: WineHQ packages
+Label: winehq
+Origin: dl.winehq.org
+Suite: focal
+MD5Sum:
+ 2db79a570bb0903555f78b9197d7ad26           623647 main/binary-amd64/Packages
+ 79dbc2a8c41878aa7b1525766351b4f6           180486 main/binary-amd64/Packages.gz
+ cbc4c2d21c83af90937ba64acbdee99c           151716 main/binary-amd64/Packages.xz
+ aaf1efe19039ea47189677770cdf8d96              116 main/binary-amd64/Release
+ 02d907c2b78b7179ad58f1e400595689           617402 main/binary-i386/Packages
+ de633e10c19a40fddc7c4bfdba60c07c           182194 main/binary-i386/Packages.gz
+ 8c9bbf2578e4029642db234cfc373202           153536 main/binary-i386/Packages.xz
+ 7cfc022ef4e95e81ca8336a0d05c3a51              115 main/binary-i386/Release
+ d6465cf16d7167c3668de4c8826f002c              117 main/source/Release
+ 2a4e79e0f4c463384a60911829cde4be           166399 main/source/Sources
+ 5a6db82f6f58659a90d8b34be009efda            24738 main/source/Sources.gz
+ befc126030dd289519a2d41359982886            21188 main/source/Sources.xz
+SHA1:
+ f2d74ab255758ab92da717cff8746a3a0dd9e06b           623647 main/binary-amd64/Packages
+ 7aa22f9ebe1ada420a1ed3a2a782d768fd41a8b3           180486 main/binary-amd64/Packages.gz
+ 601f5990f3ffb23cdcb144945666d3e4fe3449fa           151716 main/binary-amd64/Packages.xz
+ dfa68a7185c4ad27e4039e25bf0c58e2f8df796e              116 main/binary-amd64/Release
+ 17a2d02b8f3697a6c661cb384dd508a98e11fd8d           617402 main/binary-i386/Packages
+ cc5b06b801cdad2fb65d4531f12a4d955b275b9e           182194 main/binary-i386/Packages.gz
+ e9b768170b752c3b6d8c74029e6e7f509e51bb46           153536 main/binary-i386/Packages.xz
+ 2044dd4714a08cc083f717a3abcc9db15d878f6a              115 main/binary-i386/Release
+ fcd9395dc3b6835770ec1786b07aee74ad1dc93b              117 main/source/Release
+ 898bdba9521b118b660ab393ac37eca0ef795898           166399 main/source/Sources
+ 0391e3ac12a627976868e0ca4d3938f279a6c42c            24738 main/source/Sources.gz
+ 20368797349f4724529c60012f979c55982c3e0a            21188 main/source/Sources.xz
+SHA256:
+ edc4f8200426d3d6285188c650d754fbbf520d7b201aca663037519f2dcb5050           623647 main/binary-amd64/Packages
+ ec0d9369e936641eb53fb44f1ba1e0e407b0cb16bf507114eb5872e1d45db48e           180486 main/binary-amd64/Packages.gz
+ b9d000a539da655c74acd91c4165d4dcdedda0a344531ad2444a628406281e5e           151716 main/binary-amd64/Packages.xz
+ e6c27480d822eadc52188c55f78631d59784930131f518b342131cb123d77f51              116 main/binary-amd64/Release
+ 35b61a6eabfe644a09fd0569d59f3e24ffe34d705415ea11db6739cc48681a89           617402 main/binary-i386/Packages
+ 00fd8eb8c329971769927ca650928779e959f54c43ce3bfc62c724bb7a737311           182194 main/binary-i386/Packages.gz
+ 622d1e9aa4cab3529012f7494464605b9c7d654f91ce515027cd4cb5ed59555c           153536 main/binary-i386/Packages.xz
+ e543af1f48b579c2a13f7c2f24e385f0c8470ec087ab477b4dd495e38f2ee34f              115 main/binary-i386/Release
+ 23c619134708e8455c13d27727a02f23a9ddcf02a59746f0906bbaba54bde55d              117 main/source/Release
+ 6823847baaef27bee997bb63656df01fd471e98c68e32e8db4c3404e0dd82ff6           166399 main/source/Sources
+ 6714c0503608f8a4c98ef31cb26020c74f1bdb45080426daf8e698c74046a062            24738 main/source/Sources.gz
+ 66fbe0cbbba97aa86191c4e0b6cceb6a8ba5e4db108cb812a11ca611ba09d7a2            21188 main/source/Sources.xz
+SHA512:
+ 40788d5b15636889f0f1637243d4a8a0f074bc4705013eeef5a32ca303c519242af029cf00c88893b441a3141e282513259063567006d28e311c68b2ee0fca66           623647 main/binary-amd64/Packages
+ fe936dde79e305e43bfe8e3e8943fd07640b4f538a8f1ec40fc71f7c9d8a0396224644c7e6fa9a778fc4ef8f062eda4e5c7b1e053e29aecf5983c31dd221f5ad           180486 main/binary-amd64/Packages.gz
+ e8bbf0951bc1ea1db51339a9f26c46ff1de1052bbf39d9d4272c47be81f0544f37f50112c6c5af349a9c1fcc1bd25059a067500eef7e0a0a6c9e9828fb0c4fa3           151716 main/binary-amd64/Packages.xz
+ 679d777084ec32dbb4ed5e0a77818737a4c8cf1d5d4e697207a40ba18b8e6fc61811b5d602591fccce525d4953a88139c3e2ad35934f01c43445b0363fddddf2              116 main/binary-amd64/Release
+ 880f466ecd5294a38eed450152622dde638da798e0bf311666cd211d88c5bcc102a0a0aab41aa31dec104a55cb8167e54d1492426c7d4ee793871104dd05cd3f           617402 main/binary-i386/Packages
+ 33a49b2c0ab08bba617d8be1025ac72f0d96e993a000cd9945dfcf864eb802e234e14dfb5d47d39e1009ab74bdc5d64683fb598ca26a128858dd404a66218356           182194 main/binary-i386/Packages.gz
+ 0e53414259afc77240b6725edd49e95ba6dbe13ccd8686c91d72eb05d71b45304d171b8734b1fa557104a49442d97fec134ba1616cf15c8dc1812d7db5c624c9           153536 main/binary-i386/Packages.xz
+ 633c75bdb78cc6f33c124928a0d59f4964401582440f3385f7f6889fcbe9d81c7e17f6697e8f75051f342f21beed48e0c8bd787a450b190995c3b921377032b6              115 main/binary-i386/Release
+ ce67856f1ab6a6098a114a0959d65017c32d937051fcb949deda583d745436e03fc5ed21b5e784dba41294aefa83fec2013531936b05c9bf51f77382daacc9d7              117 main/source/Release
+ 97137623bb9ad56754ecf904a93ef05aa6da4085009813c18147f7b26e0f8d892bb7f125f8d79f134fdba35c1ddeb7fa0a66eb32131cd50077cdd08c4933a8d9           166399 main/source/Sources
+ f604863fff3cce7ef54a3f1614bdd9d0489216f5a1f5829bc6b446630b8a4a33bebb23b1f06255f9b7f682554e95532bbf3f1280c8085faa5a6bd69e9e690eaf            24738 main/source/Sources.gz
+ 720e9272878ff28f005d52ad8107385fe18c54bfdc6d92490d29db503a0093405ce29be95662113e77a6592ded5c9e32b409284915de609d0c862806136b8a48            21188 main/source/Sources.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQHKBAEBCgA0FiEE1D9kAUU2nFHXht3qdvGiD/mHZy8FAmAB9zUWHHdpbmUtZGV2
+ZWxAd2luZWhxLm9yZwAKCRB28aIP+YdnL5h0C/9nDHw8iP8OeAfq//nw+4jHTCoi
+9NUxtkUHgV6ufe8Hoq9S5eNboleC8rnyIfuB497T7Q/ZXT9WFZomvvb989mqJzVd
+aYOXMXAqA/owUfqUi8pOWYiGJBvMliH0rNtvBVVm0ulNqOD34WRF5ogOQpurK0+t
+kx15ezGCV2RkO/juNwnWOF0VjI58CqinwPVhoHD4iFXNIvfzYoSgY8fEdiVz7OoN
+YJiWGNWXj9SqCT4n4jK4JG1yXr5pa10FcdBl/Sc5VmO5tO+LUnmt22AHWpToDaFH
+O/xit7xPPtu3Uccnf9YoHQcURsBH/LgP537HlU++pPYbDuhaLYbfyAwIWURs8vJU
+lY4hnb/GqaQSyh4nMtVDu8jWxpMYiR6VSl5Ti5oR5TBFpXBP5QMMUY/ACl5oHVQx
+u9pVNl9t2cGjnFK0IPZ0E7Dz3zBMBXTRzWUbw0lyA+gDIYUkcLihHt52UP6AuNH6
+y9gq2xiOKPUpR63/UDaCwFYZGfyFjoHCgsiDFbw=
+=wUbG
+-----END PGP SIGNATURE-----

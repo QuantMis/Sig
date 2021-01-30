@@ -1,0 +1,71 @@
+Architectures: i386 amd64 source
+Codename: disco
+Components: main
+Date: Wed, 04 Mar 2020 23:22:09 UTC
+Label: Dropbox Ubuntu Repository
+Origin: Dropbox.com
+Suite: disco
+MD5Sum:
+ 3b259d90e2ffa6ce180b71419d2dd9a4             1601 Contents-amd64
+ 5aaaf05a1afa517829d6412980c53a78              401 Contents-amd64.bz2
+ 1024d5742c2eb3183327bbd6dd29a279              332 Contents-amd64.gz
+ 3b259d90e2ffa6ce180b71419d2dd9a4             1601 Contents-i386
+ 5aaaf05a1afa517829d6412980c53a78              401 Contents-i386.bz2
+ 1024d5742c2eb3183327bbd6dd29a279              332 Contents-i386.gz
+ d7c0528eb5a5feacb22ee59deb6cb815              168 Release
+ edf116e6b0987f883a18d7bd0400130c             2005 main/binary-amd64/Packages
+ 04ca25c07926d970b9108832db7ba1a9             1169 main/binary-amd64/Packages.bz2
+ 0ad38d46da4e615cdc6ff96b015866eb             1078 main/binary-amd64/Packages.gz
+ 0e0184cc09de2dfb047c371ee1fce5d2             2003 main/binary-i386/Packages
+ 60c21bf5c7294fe155a2e266db531aed             1163 main/binary-i386/Packages.bz2
+ d6b297b8d7c61b3d0a9189e511f11da2             1080 main/binary-i386/Packages.gz
+ f8e3ae738a1d52865bea9fbbbc21a092             1284 main/source/Sources
+ 66ddc0034da9c84d7154aaf09c61e89a              719 main/source/Sources.gz
+SHA1:
+ a0126a0015e5e7f260f6b7646f8a9611f7923bd1             1601 Contents-amd64
+ 21e65b8863dca4390e68212b2f92c83e7932eb85              401 Contents-amd64.bz2
+ 06cff93aff3bc945af06564c475a542c29f98288              332 Contents-amd64.gz
+ a0126a0015e5e7f260f6b7646f8a9611f7923bd1             1601 Contents-i386
+ 21e65b8863dca4390e68212b2f92c83e7932eb85              401 Contents-i386.bz2
+ 06cff93aff3bc945af06564c475a542c29f98288              332 Contents-i386.gz
+ ad68221ccd00007f796f44a27da5e2ffaaa3021c              168 Release
+ e628338a06fe52c37102cbdfa577bd1374fa2742             2005 main/binary-amd64/Packages
+ c1dd8a7320a5ae2ce758173d84850e9bfabed5af             1169 main/binary-amd64/Packages.bz2
+ 5763f593598eb22cb3fb399024019e85f33ab542             1078 main/binary-amd64/Packages.gz
+ c1fd84251df04dc590ea1126a13d6dc62914db4b             2003 main/binary-i386/Packages
+ b401b5c1356b0a42f0f8edbef2569577a13a74e3             1163 main/binary-i386/Packages.bz2
+ 0e71a74978148e3c793a91c94fbadb6c83418d28             1080 main/binary-i386/Packages.gz
+ 66a26cee4631e37a2e944978ae315ab82a5226b0             1284 main/source/Sources
+ 1c42c6c498cdfb5d9d31f5c7ad010ca2880d704f              719 main/source/Sources.gz
+SHA256:
+ 24287f45e73fc81de66f0991a9699ffdf943ffeb5815b2fdbb2a5808deed6f57             1601 Contents-amd64
+ 539b56222c86bf96df95783493df7ec506014d836978f63c601e1b181d95cee5              401 Contents-amd64.bz2
+ 83ad098a6806126aef9ae968b3435ff88dd3f324872a8b99ed4a86864cfad1bb              332 Contents-amd64.gz
+ 24287f45e73fc81de66f0991a9699ffdf943ffeb5815b2fdbb2a5808deed6f57             1601 Contents-i386
+ 539b56222c86bf96df95783493df7ec506014d836978f63c601e1b181d95cee5              401 Contents-i386.bz2
+ 83ad098a6806126aef9ae968b3435ff88dd3f324872a8b99ed4a86864cfad1bb              332 Contents-i386.gz
+ 6322524e6d190caa2f86550d7661fe93a6562da2148d0528e648f422ba18593b              168 Release
+ a33b826a63ea575ffd258adfefa7cf7c9817c11070e43eb1aadaf973a2b44136             2005 main/binary-amd64/Packages
+ 6bb7b3d92a88a9b0cbcdaf38a183179e66e940e41990508484482280eb27c1ae             1169 main/binary-amd64/Packages.bz2
+ 1a2c4e9a12517f8514a9f189356e6c8f106816102f81bebbfce4f91af8505087             1078 main/binary-amd64/Packages.gz
+ b6b9af8d9ef4eb03d17cec692e0a0c28befe0763d3f9590ea9f9a2f851fe73d7             2003 main/binary-i386/Packages
+ 7ae76439e880225061b4b3693ebee30351fc4a51a12730b8ecf2d1b9f1ad68b0             1163 main/binary-i386/Packages.bz2
+ f425d773290f3e416f044f03518cef6e902cee9daf9fb6465c7589c785b582c0             1080 main/binary-i386/Packages.gz
+ 53f6cf2e517faf45323035cc5d4578d20e33e409c858b3cd31f448a6e4ca796c             1284 main/source/Sources
+ b83ca214e4b99457e0f78735927feb784ad5e1303b303009508ce5b94d1a33f5              719 main/source/Sources.gz
+SHA512:
+ e19e4dac6e495f872dae8b96d4eae0c3fb6bd38dd7426888e2c708ecdde7629221523597cbe9a31e34b65f00d778a12d9629f346d388350a101021b826a60cf3             1601 Contents-amd64
+ 1d89724ecadd2142aa3e0add8443eb7276409dbd8c058a8a28b6e8b462717c8e761767a33e9033252bd02ee80df57db3cc6efb8bbeadc3124cba8b2c6429dd15              401 Contents-amd64.bz2
+ 599a4d7ddd7076bec3a3a1b1f0d470cf37abd86472813cf3668f99a59357330adae0806a8d456e895f7426fc3c3f1686f8bd89be2b303f72abcb1ad192ff6cf1              332 Contents-amd64.gz
+ e19e4dac6e495f872dae8b96d4eae0c3fb6bd38dd7426888e2c708ecdde7629221523597cbe9a31e34b65f00d778a12d9629f346d388350a101021b826a60cf3             1601 Contents-i386
+ 1d89724ecadd2142aa3e0add8443eb7276409dbd8c058a8a28b6e8b462717c8e761767a33e9033252bd02ee80df57db3cc6efb8bbeadc3124cba8b2c6429dd15              401 Contents-i386.bz2
+ 599a4d7ddd7076bec3a3a1b1f0d470cf37abd86472813cf3668f99a59357330adae0806a8d456e895f7426fc3c3f1686f8bd89be2b303f72abcb1ad192ff6cf1              332 Contents-i386.gz
+ 4fdd7c5d205a0a6bbf797e03a1ec46635fe3a57bfdd7ab7d1e77cc7cdd2355f425925e02c303803c340cf0fa26ca06ce9df8509b13a5979192d8caa7657aa1b8              168 Release
+ 6f537426c2403fe23af3328065a34bab26e49cbdd5f5e10ed686377739d709f566e1a6ca0779d449c28b8ebeb1836f08033893abd30b83d0baaa2c9ec1a884a2             2005 main/binary-amd64/Packages
+ 5ed49b4dea0e2f04453740948b28d519fe9348ddc0904c1b7584f08f66d69519ed6ee8bd8537eb2fa2d1c0b10ec6e5bd311d2515ba64d34a383667c42b8ccfa2             1169 main/binary-amd64/Packages.bz2
+ 70eb641d9517a5f696edf05b64ff46aae42150c151aa3bef7535386eb83b6118928bdcc716da4a02e3a7c02faa4b18b5b03d38eaa2019a2e0cdb26a3a314d168             1078 main/binary-amd64/Packages.gz
+ 821e71acdacd062afed1625e5c0cfa9137a7b365dafde121b53d9d01650bed73d46e2800acea137f730a8ce168dcbd9cdb0caede7a98e9d2cdb3f8b1f3950c6c             2003 main/binary-i386/Packages
+ eb53c77418eeae58f66668a18f7867d43611b74598605a7a45d8380048dcae66aaeacd214e79bec940d4a3d8c49cebd33b3ee1291e9ff7003a8b89de0b45b2e0             1163 main/binary-i386/Packages.bz2
+ 8c8ba8d6cda8c5e0b83aa8dc71289b8a6dc054cc818b8a0a8e769d8fe1ff4e26b1f39066134bb46d79407a0b06c46d32851b468852dd02fdac73056e7902fde4             1080 main/binary-i386/Packages.gz
+ 8540bfdd6a086b4bb4552b7999dbbb692e556d1f1c29a5cbef7be477cf89cbe34b7a7b155d69e29ebe74b433d7bb346ff26056fb11517964bca3b4bcd1fd5dd1             1284 main/source/Sources
+ 556861da502a31a334ea0d99a784915480ec9d06bdd95d9d92410d0d402ce8630345996a3c03a4fd30e33ec5f56a8bce795988a0f4296c8ad4f8fa074ae285c0              719 main/source/Sources.gz

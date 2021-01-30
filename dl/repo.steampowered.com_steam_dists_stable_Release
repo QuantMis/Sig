@@ -1,0 +1,37 @@
+Origin: Valve Software LLC
+Label: Steam launcher
+Codename: stable
+Date: Thu, 14 Jan 2021 16:14:55 UTC
+Architectures: i386 amd64
+Components: steam
+Description: Steam packages for Ubuntu and Debian
+MD5Sum:
+ ec5a3a032148ebf836de0f5f4943e1cb 1682 steam/binary-i386/Packages
+ a257392d9a067ac1df806e5926e8bf37 868 steam/binary-i386/Packages.gz
+ 1bf3fd71424a1112a232f8617452bc38 135 steam/binary-i386/Release
+ 50d11daacc86f9434f3e2b5841310605 1057 steam/binary-amd64/Packages
+ 761a8e0421e92f7fc0618ea515a122f9 672 steam/binary-amd64/Packages.gz
+ 92c8a3be7382bf8dbe080afc094c799a 136 steam/binary-amd64/Release
+ d252fd6428cbe39e86f0301ffcd713fb 944 steam/source/Sources
+ 51fc345da31bd941bcb2c70fa27ce43b 564 steam/source/Sources.gz
+ 6809037802698e089478642ab605bf38 137 steam/source/Release
+SHA1:
+ b214def42fbca8208acda8c53a7d1c6869265709 1682 steam/binary-i386/Packages
+ 4d257041febe67f13ff9404afb6319bdaea5671d 868 steam/binary-i386/Packages.gz
+ 137f598735523f918e676cb500218b70394d7265 135 steam/binary-i386/Release
+ 815b09bd82971ea29a7d7e1db4e733d4f3c7e725 1057 steam/binary-amd64/Packages
+ 8a4c679c546ce38e3e72156524e8b176f370c5af 672 steam/binary-amd64/Packages.gz
+ 6958f751e15104d4a727f38185ec9faf25d04a75 136 steam/binary-amd64/Release
+ aa92ffccaa718d5adcf1bede4c49e50e779119f9 944 steam/source/Sources
+ 72c18450b071eadda7c1f605672e6f33571b809b 564 steam/source/Sources.gz
+ aa51a6ea3e0664c790e78a62c7d4662725d1c35a 137 steam/source/Release
+SHA256:
+ e3b0bab22587c2b7b379d5f41f3e99d56b57bd1fdacdd15ca0e95bd5986052ab 1682 steam/binary-i386/Packages
+ d8d35e81574b3d32399daa69815c38ad0b8ec07126864483d309fd37bccaee2c 868 steam/binary-i386/Packages.gz
+ d21b7028166ccdac26f4c8c1084dad81d0d1e45f82652bcf1b28d0277b795da0 135 steam/binary-i386/Release
+ 53f7cc8ed03556f796025e1a9820b3efe359e1615d8b3b875eb745ad18ec44ad 1057 steam/binary-amd64/Packages
+ 8955351366cceaaf0cfe780d13d8a63f3e8c2fbf83827791e44edc8612ec5b04 672 steam/binary-amd64/Packages.gz
+ 9e766d8dedb507da4c41cca732b3eff724f53630efa9dbc798ef78dfdfbc5b41 136 steam/binary-amd64/Release
+ bd494387cca316bac84c7f1a2d8419d09398683b05777a451c3f07c44315eb8a 944 steam/source/Sources
+ 8b07b5e7da1712f24cdaf6447fb72ba9047a036486ddcb3b0002360b609f5bf8 564 steam/source/Sources.gz
+ 4cc31b1d8142f8e6145c2331b198f92c825cf6677205d97227f90268ee8c50d0 137 steam/source/Release
